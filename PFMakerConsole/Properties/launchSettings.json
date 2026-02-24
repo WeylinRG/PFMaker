@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PFMakerConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "\"d:\\temp\\pftest\\bnkros360_compV4pr_User.json\""
+    }
+  }
+}

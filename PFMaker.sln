@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PFMakerConsole", "PFMakerConsole\PFMakerConsole.csproj", "{ACAA086C-B69E-4568-8DC0-FC2FA210AAE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PFMakerLib", "PFMakerLib\PFMakerLib.csproj", "{92EEB9F4-949B-4DAD-97B9-888AF5734EF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACAA086C-B69E-4568-8DC0-FC2FA210AAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAA086C-B69E-4568-8DC0-FC2FA210AAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAA086C-B69E-4568-8DC0-FC2FA210AAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAA086C-B69E-4568-8DC0-FC2FA210AAE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EEB9F4-949B-4DAD-97B9-888AF5734EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EEB9F4-949B-4DAD-97B9-888AF5734EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EEB9F4-949B-4DAD-97B9-888AF5734EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EEB9F4-949B-4DAD-97B9-888AF5734EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5516DD0A-F846-4FC0-BA7C-64481C22830F}
+	EndGlobalSection
+EndGlobal

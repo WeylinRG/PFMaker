@@ -22,7 +22,6 @@ namespace PFMakerConsole
             Console.WriteLine("Creating print form...");
             Console.WriteLine($"JSON Config: {jsonConfigPath}");
             var pfmaker = new PFMaker();
-            //string result = pfmaker.MakePrintForm(@"d:\temp\pftest\bnkros360_compV4pr_Expert.json");
             var result = pfmaker.MakePrintForm(jsonConfigPath);
 
             if (result.IsSuccess)
